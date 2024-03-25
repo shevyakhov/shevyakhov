@@ -1,10 +1,7 @@
 
-# 💫 About Me:
-My name is artem
+# 💫 About this page:
 
-I am a Middle Android Developer
-
-This page contains uni apps and pet-projects
+This page contains uni apps and pet-projects mostly android applications
 
 Welcome aboard!
 
